@@ -363,7 +363,6 @@
 - **Data Science Intern** @ Prinston Smart Engineers
   - Feb 2026 – May 2026
   - Focus: ML model deployment, data pipeline development, EDA
-  - Completed 42-day internship with VTU documentation
 
 ### **Professional Certifications**
 - **Machine Learning Specialization** – Andrew Ng, Coursera (3-course series)
