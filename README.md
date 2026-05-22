@@ -13,7 +13,7 @@
 🚀 **Seeking** entry-level roles in Data Science, ML Engineering, AI Development, and Generative AI.
 
 **Current Status:** Graduated B.E. in AI & Data Science @ KLE College of Engineering
-**CGPA:** 8.52/10 | **Internship:** Data Science @ Prinston Smart Engineers (Feb-May 2026)
+**CGPA:** 8.7/10 | **Internship:** Data Science @ Prinston Smart Engineers (Feb-May 2026)
 
 ---
 
